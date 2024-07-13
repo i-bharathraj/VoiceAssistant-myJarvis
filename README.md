@@ -3,7 +3,7 @@ My kind of Voice Assistant leveraging Meta's LLaMA3 large language model (LLM)
 
 **Overview**
 
-This repository includes a complicated Python program that uses the Ollama Python Library and the Meta Llama 3 model to respond to user queries by turning text responses into audio. 
+This repository includes a complicated Python program that uses the Ollama Python Library and the Meta Llama 3 model to respond to user queries by turning responses into audio. 
 
 Trust me! This implementation has been tested and worked on WIndows 11. 
 
