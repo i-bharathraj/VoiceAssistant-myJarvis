@@ -1,4 +1,4 @@
-# Voice Assistant Based on Llama3
+# WorkFlow for the Voice Assistant Based on Llama3
 
 This project is a voice assistant script running on Windows 11, utilizing various libraries such as `llama_chat`, `speech_recognition`, `datetime`, `gtts`, `pygame`, `threading`, `queue`, and `time`.
 
